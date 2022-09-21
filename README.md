@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraSchalk
 - 👀 I’m interested in QA Automation.
-- 🌱 I’m currently learning SDET Tools and Principles.
+- 🌱 I’m currently practicing SDET Tools and Principles.
 - 💞️ I’m looking to collaborate on Automation.
 - 📫 How to reach me: https://www.linkedin.com/in/laura-schalk/
 
